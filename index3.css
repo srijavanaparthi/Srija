@@ -1,0 +1,41 @@
+.main{
+    border:50px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:50px;
+    margin:10px;
+    background-color: antiquewhite;
+    border-radius:50px;
+    width:100px;
+}
+.content{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.card{
+    display:flex;
+    flex-direction:column;
+}
+.img{
+    height:200px;
+    width:200px;
+    align-self:center;
+    padding:10px;
+    margin:10px;
+}
+.heading1{
+    color:aquamarine;
+    border: 20px;
+    font-size:40px;
+    text-align:center;
+    padding:10px;
+}
+.paragraph{
+    color:pink;
+    border:20px;
+    font-size:30px;
+    text-align:center;
+    padding:10px;
+}
